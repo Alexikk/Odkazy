@@ -1,0 +1,28 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .mujDIV{
+    text-align: center;
+  font-size: 150%;
+    font-style: italic;
+  }
+  
+  .mujDIV2{
+    text-align: center;
+  font-size: 125%;
+    font-weight: 100%;
+   }
+  
+    .mujDIV3{
+      text-align: center;
+    font-size: 100%;
+      font-style: revert;
+    } 
+  
+      .mujDIV4{
+        text-align: center;
+      font-size: 100%;
+        font-style: oblique;
+   }
